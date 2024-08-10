@@ -10,6 +10,8 @@ This repository contains the sample site for the Git and GitHub course on Plural
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. **Nunc aliquet pellentesque erat**, ac laoreet nisi porttitor porttitor. Suspendisse vel nibh a sapien dignissim rhoncus nec id lorem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum lobortis nisl at augue ultrices fringilla. Nunc pretium leo vel eros ultricies facilisis. Nullam dapibus enim neque, vel vulputate lorem facilisis a. Suspendisse sit amet convallis velit, in ornare ex. ~~Fusce lacus leo~~, sodales nec aliquam a, auctor vestibulum velit. 
 In se ornare.
 
+
+
 > Aliquam a velit eget nisl mollis porta non quis nisi.
 
 Nunc tortor lacus, vulputate sit amet mauris sit amet, cursus molestie elit. Aliquam ut erat vitae eros feugiat accumsan. <sup>In sit amet nulla nec tortor pulvinar maximus.</sup>
